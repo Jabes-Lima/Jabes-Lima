@@ -1,12 +1,10 @@
-### Olá eu sou o Kauan Silva ✋
+### Olá eu sou o Jabes Lima ✋
 
-[![Youtube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/s.c_kauan/)
-[![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-)](https://twitter.com/sc_kauan06)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jabes_silva_eua_ofc/)
 
-![Kauan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan678f&show_icons=true&theme=dracula)
+![Jabes GitHub stats](https://github-readme-stats.vercel.app/api?username=Jabes-Lima&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan678f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jabes-Lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
