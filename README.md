@@ -1,4 +1,4 @@
-### Olá eu sou o Jabes Lima ✋
+### Olá, me chamo Jabes lima✋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jabes_silva_eua_ofc/)
 
